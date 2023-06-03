@@ -6,12 +6,12 @@
 ## Βασικές Γνώσεις για το Ethereum και το Blockchain 
 - [Ethereum](https://ethereum.org/en/) - Το σημείο αναφοράς για το Ethereum                                                               (**_Βαθμός 5_**)
 - [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper) - Το paper που περιγράφει την λειτουργία του Ethereum                  (**_Βαθμός 5_**)
-- [EIPs](https://github.com/ethereum/EIPs) - Οι προτεινόμενες αλλαγές - προσθήκες στο δίκτυο του Ethereum                                 (**_Βαθμός 5_**)
+- [EIPs](https://github.com/ethereum/EIPs) - Οι προτεινόμενες αλλαγές - προσθήκες στο δίκτυο του Ethereum                                 (**_Βαθμός 4.5_**)
 - [Solidity](https://docs.soliditylang.org/en/v0.8.20/) - Η γλώσσα Solidity που παίζει σημαντικό ρόλο στο περιβάλλον του Ethereum         (**_Βαθμός 5_**)
 - [Bitcoin Paper](https://bitcoin.org/bitcoin.pdf) - Αποτελεί την αρχή όλων. Το paper του Satoshi Nakamoto που περιγράφει τον τρόπο λειτουργίας του πρώτου ψηφιακού συστήματος πληρωμών, του Bitcoin.    (**_Βαθμός 5_**)
 
 ## Σύνδεσμοι για Δωρεάν Μαθήματα σε Web 3.0 
-- [Alchemy University](https://university.alchemy.com/) - Έχει μαθήματα για την γλώσσα Javascript την οποία και χρησιμοποιεί για την παρουσίαση των χαρακτηριστικών του Blockchain. Συστήνεται σε όλους. (**_Βαθμός 5_**)
+- [Alchemy University](https://university.alchemy.com/) - Έχει μαθήματα για την γλώσσα Javascript την οποία και χρησιμοποιεί για την παρουσίαση των χαρακτηριστικών του Blockchain. Συστήνεται σε όλους. (**_Βαθμός 4.5_**)
 - [dApp University](https://www.dappuniversity.com/) - Περιέχει μια σειρά μαθημάτων για την εκμάθηση των βασικών εργαλείων και εννοιών για την Ανάπτυξη Smart Contracts και DApps στο Ethereum (**_Βαθμός 4_**)
 - [LearnWeb3](https://learnweb3.io/) - Σειρά μαθημάτων αυξανόμενης δυσκολίας για να γίνετε ένας Web 3.0 Developer.   (**_Βαθμός 4_**)
 - [Web3 University](https://www.web3.university/) - Σειρά μαθημάτων που μπορείτε να κάνετε στον χρόνο σας και θα σας βοηθήσουν να γνωρίσετε τον κόσμο του Blockchain και του Web 3.0  (**_Βαθμός 4_**)
