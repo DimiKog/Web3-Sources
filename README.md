@@ -11,7 +11,7 @@
 - [Bitcoin Paper](https://bitcoin.org/bitcoin.pdf) - Αποτελεί την αρχή όλων. Το paper του Satoshi Nakamoto που περιγράφει τον τρόπο λειτουργίας του πρώτου ψηφιακού συστήματος πληρωμών, του Bitcoin.    (**_Βαθμός 5_**)
 
 ## Σύνδεσμοι για Δωρεάν Μαθήματα σε Web 3.0 
-- [Alchemy University](https://university.alchemy.com/) - Έχει μαθήματα για την γλώσσα Javascript την οποία και χρησιμοποιεί για την παρουσίαση των χαρακτηριστικών του Blockchain. Συστήνεται σε όλους. (**_Βαθμός 4.5_**)
+- [Alchemy University](https://university.alchemy.com/) - Έχει μαθήματα για την γλώσσα Javascript την οποία και χρησιμοποιεί για την παρουσίαση των χαρακτηριστικών του Blockchain. Έχει εμπλουτίσει σημαντικά το περιεχόμενο του και πλέον αποτελεί μία από τις πιο σημαντικές πηγές για developers στον χώρο του Web 3.0. Συστήνεται σε όλους. (**_Βαθμός 4.5_**)
 - [dApp University](https://www.dappuniversity.com/) - Περιέχει μια σειρά μαθημάτων για την εκμάθηση των βασικών εργαλείων και εννοιών για την Ανάπτυξη Smart Contracts και DApps στο Ethereum (**_Βαθμός 4_**)
 - [LearnWeb3](https://learnweb3.io/) - Σειρά μαθημάτων αυξανόμενης δυσκολίας για να γίνετε ένας Web 3.0 Developer.   (**_Βαθμός 4_**)
 - [Web3 University](https://www.web3.university/) - Σειρά μαθημάτων που μπορείτε να κάνετε στον χρόνο σας και θα σας βοηθήσουν να γνωρίσετε τον κόσμο του Blockchain και του Web 3.0  (**_Βαθμός 4_**)
@@ -62,7 +62,7 @@ _Προ-απαιτούμενα_: θα χρειαστεί να συνδέσετε
 - [Blockchain: Introduction to Technology and Examples](https://repository.kallipos.gr/handle/11419/9130) - Πρόκειται για εγχειρίδιο στην Ελληνική γλώσσα το οποίο και χρησιμοποιείται σε μαθήματα Μεταπτυχιακού Επιπέδου πάνω στην τεχνολογία του Blockchain. Αποτελεί εισαγωγικό εγχειρίδιο στην Τεχνολογία και δεν έχει κάποιο προ-απαιτούμενο για τον αναγνώστη.
 
 
-**Eπικοινωνία**: Email: dimikog@uniwa.gr, LinkedIn: [εδώ](https://www.linkedin.com/in/dimitris-kogias-b376222a/), Discord: dimi_k 
+**Eπικοινωνία**: Email: dimikog@uniwa.gr, Linked-In: [εδώ](https://www.linkedin.com/in/dimitris-kogias-b376222a/), Discord: dimi_k 
 
 
-_Έκδοση 1.2 (Δεκέμβριος 2023)_
+_Έκδοση 1.3 (Νοέμβριος 2024)_
