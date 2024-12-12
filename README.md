@@ -71,8 +71,8 @@ _Προ-απαιτούμενα_: θα χρειαστεί να συνδέσετε
 - [zkLogin](https://sui.io/zklogin) - 
 
 ## Βιβλία
-- [Mastering Bitcoin (by Andreas Antonopoulos)](https://github.com/bitcoinbook/bitcoinbook) - Πρόκειται για ένα βιβλίο - αναφορά το οποίο επικεντρώνεται γύρω από το Bitcoin αλλά παρουσιάζει και εξηγεί πολλά χαρακτηριστικά της τεχνολογίας του Blockchain που εφαρμόζονται στην περίπτωση αυτού. (**_Βαθμός 5_**)
-- [Blockchain: Introduction to Technology and Examples](https://repository.kallipos.gr/handle/11419/9130) - Πρόκειται για εγχειρίδιο στην Ελληνική γλώσσα το οποίο και χρησιμοποιείται σε μαθήματα Μεταπτυχιακού Επιπέδου πάνω στην τεχνολογία του Blockchain. Αποτελεί εισαγωγικό εγχειρίδιο στην Τεχνολογία και δεν έχει κάποιο προ-απαιτούμενο για τον αναγνώστη.
+📕 - [Mastering Bitcoin (by Andreas Antonopoulos)](https://github.com/bitcoinbook/bitcoinbook) - Πρόκειται για ένα βιβλίο - αναφορά το οποίο επικεντρώνεται γύρω από το Bitcoin αλλά παρουσιάζει και εξηγεί πολλά χαρακτηριστικά της τεχνολογίας του Blockchain που εφαρμόζονται στην περίπτωση αυτού. (**_Βαθμός 5_**)
+📕 - [Blockchain: Introduction to Technology and Examples](https://repository.kallipos.gr/handle/11419/9130) - Πρόκειται για εγχειρίδιο στην Ελληνική γλώσσα το οποίο και χρησιμοποιείται σε μαθήματα Μεταπτυχιακού Επιπέδου πάνω στην τεχνολογία του Blockchain. Αποτελεί εισαγωγικό εγχειρίδιο στην Τεχνολογία και δεν έχει κάποιο προ-απαιτούμενο για τον αναγνώστη.
 
 
 **Eπικοινωνία**: Email: dimikog@uniwa.gr, Linked-In: [εδώ](https://www.linkedin.com/in/dimitris-kogias-b376222a/), Discord: dimi_k 
