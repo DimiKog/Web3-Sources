@@ -1,6 +1,6 @@
 # Web 3.0 - Πηγές
 <p align="center"
-  <img src="Web3-Sources/blob/main/Images/640-wooden-cubes-with-web-3-0-symbol-on-background-and-copy-space.jpg" alt="Web3.0 Image" width="600">
+  <img src="Images/640-wooden-cubes-with-web-3-0-symbol-on-background-and-copy-space.jpg" alt="Web3.0 Image" width="600">
 </p>
 
 <p align="justify">  Αυτή είναι μια λίστα από πηγές και συνδέσμους σχετικούς με το Web 3.0 που μπορεί να χρησιμοποιηθεί από όποιον επιθυμεί να ασχοληθεί και να μάθει τα απαραίτητα σχετικά με Blockchain Development αλλά και γενικότερα να μάθει λεπτομέρειες για την τεχνολογία του Blockchain. </p>
