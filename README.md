@@ -75,7 +75,7 @@ _Προ-απαιτούμενα_: θα χρειαστεί να συνδέσετε
 - 📕 [Blockchain: Introduction to Technology and Examples](https://repository.kallipos.gr/handle/11419/9130) - Πρόκειται για εγχειρίδιο στην Ελληνική γλώσσα το οποίο και χρησιμοποιείται σε μαθήματα Μεταπτυχιακού Επιπέδου πάνω στην τεχνολογία του Blockchain. Αποτελεί εισαγωγικό εγχειρίδιο στην Τεχνολογία και δεν έχει κάποιο προ-απαιτούμενο για τον αναγνώστη.
 
 
-**Eπικοινωνία**: Email: dimikog@uniwa.gr, Linked-In: [εδώ](https://www.linkedin.com/in/dimitris-kogias-b376222a/), Discord: dimi_k 
+**Eπικοινωνία**: 📧: dimikog@uniwa.gr, Linked-In: [εδώ](https://www.linkedin.com/in/dimitris-kogias-b376222a/), Discord: dimi_k 
 
 
 _Έκδοση 1.3 (Νοέμβριος 2024)_
