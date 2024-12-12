@@ -65,10 +65,10 @@ _Προ-απαιτούμενα_: θα χρειαστεί να συνδέσετε
 
 ## Αποδείξεις Μηδενικής Γνώσης (Zero Knowledge Proofs) και Υλοποιήσεις τους σε Blockchain 
 - [Γνωριμία](https://ethereum.org/el/zero-knowledge-proofs/) - Οι τεχνικές που ενσωματώνουν την χρήση Αποδείξεων Μηδενικής Γνώσης αποδεικνύεται πως συνδυάζονται εξαιρετικά με την τεχνολογία blockchain και στη συνέχεια θα δούμε κάποιες πολύ αξιόλογες υλοποιήσεις που μπορείτε να εξερευνήσετε στο ταξίδι σας στο Web 3.0. Ο σύνδεσμος εδώ οδηγεί σε μια παρουσίαση του τι είναι οι αποδείξεις αυτές από την επίσημη σελίδα του Ethereum. (**_Βαθμός 4.5_**)
--[ZK-EVM](https://polygon.technology/blog/your-three-step-guide-to-using-polygon-zkevm-yes-its-that-easy) - 
--[Starknet](https://www.starknet.io/) - 
--[ZKsync](https://zksync.io/) - 
--[zkLogin](https://sui.io/zklogin) - 
+- [ZK-EVM](https://polygon.technology/blog/your-three-step-guide-to-using-polygon-zkevm-yes-its-that-easy) - 
+- [Starknet](https://www.starknet.io/) - 
+- [ZKsync](https://zksync.io/) - 
+- [zkLogin](https://sui.io/zklogin) - 
 
 ## Βιβλία
 - [Mastering Bitcoin (by Andreas Antonopoulos)](https://github.com/bitcoinbook/bitcoinbook) - Πρόκειται για ένα βιβλίο - αναφορά το οποίο επικεντρώνεται γύρω από το Bitcoin αλλά παρουσιάζει και εξηγεί πολλά χαρακτηριστικά της τεχνολογίας του Blockchain που εφαρμόζονται στην περίπτωση αυτού. (**_Βαθμός 5_**)
