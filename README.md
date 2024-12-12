@@ -92,4 +92,4 @@ _Προ-απαιτούμενα_: θα χρειαστεί να συνδέσετε
 **Eπικοινωνία**: 📧: dimikog@uniwa.gr, 🔵Linked-In: [εδώ](https://www.linkedin.com/in/dimitris-kogias-b376222a/), 🟣Discord: dimi_k 
 
 
-_Έκδοση 1.3 (Νοέμβριος 2024)_
+_Έκδοση 1.3 (Δεκέμβριος 2024)_
