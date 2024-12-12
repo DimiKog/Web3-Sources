@@ -1,5 +1,5 @@
 # Web 3.0 - Πηγές
-<p align="center"
+<p align="center">
   <img src="Images/640-wooden-cubes-with-web-3-0-symbol-on-background-and-copy-space.jpg" alt="Web3.0 Image" width="600">
 </p>
 
