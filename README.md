@@ -27,10 +27,10 @@
 - [Βιβλία](#βιβλία)
 
 ## ⚙️Βασικές Γνώσεις για το Ethereum και το Blockchain 
-- 🇭 [Ethereum](https://ethereum.org/en/) - ⭐⭐ Το σημείο αναφοράς για το Ethereum                                                               (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**) 
+- 💎 [Ethereum](https://ethereum.org/en/) - ⭐⭐ Το σημείο αναφοράς για το Ethereum                                                               (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**) 
 - [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper) - Το paper που περιγράφει την λειτουργία του Ethereum                  (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**)
 - [EIPs](https://github.com/ethereum/EIPs) - Οι προτεινόμενες αλλαγές - προσθήκες στο δίκτυο του Ethereum                                 (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%204.5%20-%20%23FFA500)**)
-- [Solidity](https://docs.soliditylang.org/en/v0.8.20/) - ⭐ Η γλώσσα Solidity που παίζει σημαντικό ρόλο στο περιβάλλον του Ethereum         (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**)
+- 🔗 [Solidity](https://docs.soliditylang.org/en/v0.8.20/) - ⭐ Η γλώσσα Solidity που παίζει σημαντικό ρόλο στο περιβάλλον του Ethereum         (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**)
 - ₿ [Bitcoin Paper](https://bitcoin.org/bitcoin.pdf) - ⭐⭐ Αποτελεί την αρχή όλων. Το paper του Satoshi Nakamoto που περιγράφει τον τρόπο λειτουργίας του πρώτου ψηφιακού συστήματος πληρωμών, του Bitcoin.   (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**)
 
 ## 🎓Σύνδεσμοι για Δωρεάν Μαθήματα σε Web 3.0 
@@ -41,8 +41,8 @@
 - [Cyfrin Updraft](https://www.cyfrin.io/updraft/) - ⭐⭐ Πλατφόρμα εκμάθησης εννοιών για την τεχνολογία blockchain αλλά κυρίως για την εκμάθηση προγραμματισμού σε γλώσσα Solidity. Στα μαθήματα χρησιμοποιούνται εργαλεία σύγχρονα που είναι σημαντικό να μαθαίνουν όσοι θέλουν να ασχοληθούν με Web3.0 Development (π.χ., Foundry). Τα μαθήματα περιέχουν και θέματα σχετικά με Smart Contract Auditing και υποστηρίζονται από μια ενεργή ομάδα χρηστών και συμπεριλαμβάνουν και πολλούς διαγωνισμούς. Αποτελεί μία πλήρη πηγή εκμάθησης Web3 αυτή την στιγμή.     (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**)
 - [Patrick Collins Mega Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org) - ⭐ 31 ώρες εκπαιδευτικού υλικού που θεωρείται classic για την εισαγωγή σας στον κόσμο του Blockchain και του Web 3.0. *Το περιεχόμενο έχει ενσωματωθεί και εμπλουτιστεί στο Cyfrin Updraft (βλ. πιο πάνω)* (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%204.5%20-%20%23FFA500)**)
 
-## 👛 Πορτοφόλια
-- [Metamask](https://metamask.io/) - ⭐⭐ Από τα πιο γνωστά πορτοφόλια με πρόσβαση στο Ethereum Mainet καθώς και στα δοκιμαστικά δίκτυα αυτού (Sepolia) αλλά και σε άλλα γνωστα δίκτυα Blockchain (πχ. Polygon) (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**)
+## 🔐 Πορτοφόλια
+- 🦊 [Metamask](https://metamask.io/) - ⭐⭐ Από τα πιο γνωστά πορτοφόλια με πρόσβαση στο Ethereum Mainet καθώς και στα δοκιμαστικά δίκτυα αυτού (Sepolia) αλλά και σε άλλα γνωστα δίκτυα Blockchain (πχ. Polygon) (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**)
 
 ## 🛠️ Web 3.0 Tutorials
 <p align="justify"> Τα παρακάτω είναι κάποιες πραγματικές εξαιρετικές πηγές για να αυξήσετε τις γνώσεις σας. Για κάποιες από αυτές, όμως, θα πρέπει να έχετε πρώτα μια μικρή γνώση από Web 3.0 (Solidity, Hardhat κλπ) ή/και χρήση γραμμής εντολών (command line) για να μπορέσετε να τις ακολουθήσετε. Θα αναφέρετε ενδεικτικά σε καθεμία τι παραπάνω χρειάζεται. </p>
