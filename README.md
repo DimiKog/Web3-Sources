@@ -27,7 +27,7 @@
 - [Βιβλία](#βιβλία)
 
 ## ⚙️Βασικές Γνώσεις για το Ethereum και το Blockchain 
-- 🇪🇹🇭 [Ethereum](https://ethereum.org/en/) - ⭐⭐ Το σημείο αναφοράς για το Ethereum                                                               (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**) 
+- 🇭 [Ethereum](https://ethereum.org/en/) - ⭐⭐ Το σημείο αναφοράς για το Ethereum                                                               (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**) 
 - [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper) - Το paper που περιγράφει την λειτουργία του Ethereum                  (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**)
 - [EIPs](https://github.com/ethereum/EIPs) - Οι προτεινόμενες αλλαγές - προσθήκες στο δίκτυο του Ethereum                                 (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%204.5%20-%20%23FFA500)**)
 - [Solidity](https://docs.soliditylang.org/en/v0.8.20/) - ⭐ Η γλώσσα Solidity που παίζει σημαντικό ρόλο στο περιβάλλον του Ethereum         (**![Static Badge](https://img.shields.io/badge/%CE%92%CE%B1%CE%B8%CE%BC%CF%8C%CF%82%205%20-%20%23FF0000)**)
